@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m a DevOps intern with a strong passion for Cloud and DevOps practices. I have a solid foundation in cloud computing and automation, with hands-on experience in key AWS services like EC2, S3, and Lambda. I’m proficient in CI/CD, version control, and containerization. I’m dedicated to continuous learning and keeping up with emerging technologies.<br><br>🌍 I'm based in Bangalore, India<br>✉️ You can contact me at manjunath809511@gmail.com
+<br>I’m a Cloud enthusiast. I have a solid foundation in cloud computing and automation, with hands-on experience in key AWS services like EC2, S3, SSM and Lambda. I’m proficient in CI/CD, version control, and containerization. I’m dedicated to continuous learning and keeping up with emerging technologies.<br><br>🌍 I'm based in Bangalore, India<br>✉️ You can contact me at manjunath809511@gmail.com
 
 
 ## 🌐 Socials:
