@@ -1,5 +1,5 @@
 # Hey There!👋:
-<br>I’m Manjunath P, based in Bangalore, with a strong passion for cloud technologies, automation, and infrastructure management. I have developed a solid understanding of these areas and am eager to further enhance my skills in DevOps and SRE.<br><br>🌍 I'm based in Bangalore, India<br>✉️ You can contact me at manjunath809511@gmail.com<br><br>
+I’m Manjunath P, based in Bangalore, with a strong passion for cloud technologies, automation, and infrastructure management. I have developed a solid understanding of these areas and am eager to further enhance my skills in DevOps and SRE.<br><br>🌍 I'm based in Bangalore, India<br>✉️ You can contact me at manjunath809511@gmail.com<br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,docker,aws,gcp,githubactions,terraform,prometheus,grafana)](https://skillicons.dev)
 
